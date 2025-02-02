@@ -63,4 +63,4 @@ syms x y;
 syms x y m c;
 
 # Define a Function
-y = m*x + c
+y = m*x + c;
